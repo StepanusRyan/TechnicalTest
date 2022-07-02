@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestProgram</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="tidak_punya_akun_silahkan">Tidak Punya Akun Silahkan</string>
+    <string name="hint_email">Email</string>
+</resources>
